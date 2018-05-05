@@ -36,6 +36,22 @@ h1,h2,h3,h4,h5, nav {
     opacity : 0.2;
 }
 
+#team>div{
+    text-align: center;
+}
+
+#team h2 {
+    font-size: 2rem;
+    margin-bottom: 0;
+}
+
+
+#team h3 {
+    font-size: 1.5rem;
+    opacity: 0.8;
+}
+
+
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
@@ -50,6 +66,10 @@ h1,h2,h3,h4,h5, nav {
 .carousel .btn {
     background-color: #579d52;
     border: 0;
+}
+
+.carousel .carousel-indicators{
+    cursor: pointer;
 }
 
 
