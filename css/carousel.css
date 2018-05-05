@@ -8,10 +8,13 @@ body {
     padding-top: 3rem;
     padding-bottom: 3rem;
     color: #5a5a5a;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 200;
+    font-family: 'Open Sans', sans-serif;
+
 }
 
+h1,h2,h3,h4,h5, nav {
+    font-family: 'Raleway', sans-serif;
+}
 
 /* 579d52 */
 .navbar-brand {
@@ -29,6 +32,9 @@ body {
     background-color: #777;
 }
 
+.backdrop {
+    opacity : 0.2;
+}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
@@ -55,8 +61,13 @@ body {
 }
 
 .carousel-caption h1 {
-    font-weight: 300;
+
 }
+
+.carousel-caption h1 .text-muted {
+    color: #ccc !important;
+}
+
 
 .carousel .row img {
   position: absolute;
