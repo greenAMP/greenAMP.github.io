@@ -4,6 +4,38 @@
 		"selected_items":
 		[
 			[
+				"tex",
+				"text-center"
+			],
+			[
+				"text",
+				"text-left"
+			],
+			[
+				"mar",
+				"marks"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
 				"wr",
 				"writerow"
 			],
@@ -12,23 +44,7 @@
 				"datetime"
 			],
 			[
-				"text",
-				"text-left"
-			],
-			[
-				"border",
-				"border-color"
-			],
-			[
-				"font",
-				"font-weight"
-			],
-			[
 				"padd",
-				"padding-top"
-			],
-			[
-				"pad",
 				"padding-top"
 			],
 			[
@@ -60,24 +76,12 @@
 				"F7931E"
 			],
 			[
-				"bor",
-				"border"
-			],
-			[
 				"min",
 				"min-height"
 			],
 			[
-				"tex",
-				"text-align"
-			],
-			[
 				"about",
 				"about_design"
-			],
-			[
-				"mar",
-				"margin"
 			],
 			[
 				"bord",
@@ -114,10 +118,6 @@
 			[
 				"borde",
 				"border-bottom"
-			],
-			[
-				"marg",
-				"margin-bottom"
 			],
 			[
 				"c",
@@ -520,12 +520,21 @@
 	"buffers":
 	[
 		{
-			"contents": "Premies voor huiswerk\nFlexibelere uren\nSubsidies voor treinpendel\nNieuwe snelweg\n*Kilometerheffing\n\tMinder voertuig\n\tMeer $$$\nStad antwerpen blijft, rest parking\nMinder wegen\nHerschikking\n*Minder afritten\nAlle limburgers van de baan\nMensen verleiden om over te schakelen\n\tSubsidies\n\tBonusen\nInfrabel investeren\nElectrische fietsen/motoren\nPremie voor dichtbij werk wonen\nDeporteren van antwerpenaren\nRijstrook voor elektrische autos/*motors\nVEEL hogere boetes op middenvakrijders\nThomas Hulselmans zijn rijbewijs intrekken\nSnipers die chauffeurs kapot maken (met bivakmutsen en waterpistolen)\n$$$ ipv bedrijfswagen\nCarpooling\nHigh speed busses\n",
+			"file": "css/carousel.css",
 			"settings":
 			{
-				"buffer_size": 644,
-				"line_ending": "Windows",
-				"name": "Premies voor huiswerk"
+				"buffer_size": 4229,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "instructions.html",
+			"settings":
+			{
+				"buffer_size": 5419,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -831,17 +840,26 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Thoma/Documents/IIW/4/T2MANA/www",
-		"/C/Users/Thoma/Documents/IIW/4/T2MANA/www/css",
-		"/C/Users/Thoma/Documents/IIW/4/T2MANA/www/media"
+		"/C/Users/Thoma/source/greenAMP.github.io",
+		"/C/Users/Thoma/source/greenAMP.github.io/css",
+		"/C/Users/Thoma/source/greenAMP.github.io/media"
 	],
 	"file_history":
 	[
+		"/C/Users/Thoma/source/greenAMP.github.io/index.html",
+		"/C/Users/Thoma/source/greenAMP.github.io/css/carousel.css",
+		"/C/Users/Thoma/source/greenAMP.github.io/instructions.html",
+		"/C/Users/Thoma/source/greenAMP.github.io/pricing.html",
+		"/C/Users/Thoma/source/greenAMP.github.io/partners.html",
+		"/C/Users/Thoma/Documents/IIW/4/T2MANA/www/index.html",
+		"/C/Users/Thoma/Documents/IIW/4/T2MANA/www/css/carousel.css",
+		"/C/Users/Thoma/Desktop/precision.xlsx",
+		"/C/Users/Thoma/Desktop/#42BE640.#42BE640",
+		"/C/Users/Thoma/Downloads/wordcloud.wcld",
+		"/C/Users/Thoma/AppData/Local/Temp/ex6_11.m",
 		"/C/Users/Thoma/source/Model-matlab/Track/Track.m",
 		"/C/Users/Thoma/source/Model-matlab/Track/Tracktest.m",
 		"/C/Users/Thoma/Downloads/facebook-thomasvriel(1)/messages/92.html",
-		"/C/Users/Thoma/Documents/IIW/4/T2MANA/www/css/carousel.css",
-		"/C/Users/Thoma/Documents/IIW/4/T2MANA/www/index.html",
 		"/C/Users/Thoma/Desktop/FBParser/parser.py",
 		"/C/Users/Thoma/Documents/IIW/3/T2STAT/Ex02/demo_plot_data.m",
 		"/C/Users/Thoma/Documents/IIW/3/T2STAT/Ex02/demo_tables.m",
@@ -955,16 +973,7 @@
 		"/C/Windows/System32/drivers/etc/hosts",
 		"/C/Users/Thomas Van Riel/Downloads/facebook-thomasvriel/out_8-7.txt",
 		"/C/Users/Thomas Van Riel/source/igem/website/assets/merck.svg",
-		"/C/Users/Thomas Van Riel/source/igem/website/notebook.json",
-		"/C/Users/Thomas Van Riel/source/igem/website/Compiler/notebook.py",
-		"/C/Users/Thomas Van Riel/Downloads/Adobe Illustrator CC 2015 19.0.0 (64-Bit) + Crack/ReadMe.txt",
-		"/C/Users/Thomas Van Riel/Downloads/facebook-thomasvriel/out_7-24.txt",
-		"/C/Users/Thomas Van Riel/source/igem/website/parts.html",
-		"/C/Users/Thomas Van Riel/Google Drive/iGEM 2017 KUL team/wiki/notebook.json",
-		"/C/Users/Thomas Van Riel/source/igem/website/assets/home_p1.svg",
-		"/C/Users/Thomas Van Riel/Desktop/naam.svg",
-		"/C/Users/Thomas Van Riel/Desktop/ai_reverse_path.js",
-		"/C/Users/Thomas Van Riel/Desktop/ai_reverse_path"
+		"/C/Users/Thomas Van Riel/source/igem/website/notebook.json"
 	],
 	"find":
 	{
@@ -983,6 +992,21 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			".text-",
+			".text-j",
+			"  ",
+			"    ",
+			"        ",
+			"            ",
+			"  ",
+			"    ",
+			"stuk  ",
+			"</h2><h3> ",
+			"md",
+			"md-2",
+			"lg-2",
+			"-lg-2",
+			"\n",
 			"team_maya",
 			"team_jeroen",
 			"a0f71d",
@@ -1095,22 +1119,7 @@
 			"fullscr",
 			">>Karolien",
 			">>Ik:",
-			"Thomas",
-			"Karolien",
-			"1032516179",
-			"100001114018024",
-			"100004463400683",
-			"100000094638632",
-			"100008305007441",
-			"100006885038451",
-			"1196574063",
-			"100000869117803",
-			"1032516179",
-			"1161676885",
-			"1672700023",
-			"100001114018024",
-			"100004463400683",
-			"1354435680"
+			"Thomas"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1129,41 +1138,81 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
+					"file": "css/carousel.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 644,
+						"buffer_size": 4229,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								644,
-								644
+								1539,
+								1539
 							]
 						],
 						"settings":
 						{
 							"WordCount":
 							{
-								"changes": 765,
-								"count": 76,
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "css"
+							},
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1944.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "instructions.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5419,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3095,
+								3095
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 13,
+								"count": 82,
 								"modified": false,
 								"selection": false,
 								"status": -1,
 								"syntax": "plain text"
 							},
-							"auto_name": "Premies voor huiswerk",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 810.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
