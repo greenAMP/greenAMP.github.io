@@ -58,7 +58,11 @@ nav {
 #team .sep {
     border-top: 1px solid black;
     opacity: 0.5;
-    margin: 0.5rem;
+    position: relative;
+    left: 50%;
+    margin: 0.5rem 0;
+    margin-left: -70px;
+    width: 140px;
 }
 
 #team h4 {
